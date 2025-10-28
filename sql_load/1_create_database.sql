@@ -1,0 +1,3 @@
+CREATE DATABASE testSql;
+
+-- DROP DATABASE IF EXISTS sql_course;
